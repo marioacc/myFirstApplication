@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Dave/Documents/NetBeansProjects/myFirstApplication/src/java/com/itesm/test/servlets/EliminarPersonaServlet.java</file>
+            <file>file:/C:/Users/Dave/Documents/NetBeansProjects/myFirstApplication/web/persona/mostrar.jsp</file>
+            <file>file:/C:/Users/Dave/Documents/NetBeansProjects/myFirstApplication/src/java/com/itesm/test/servlets/ListarPersonaServlet.java</file>
+            <file>file:/C:/Users/Dave/Documents/NetBeansProjects/myFirstApplication/src/java/com/itesm/test/servlets/CrearPersonaServlet.java</file>
+            <file>file:/C:/Users/Dave/Documents/NetBeansProjects/myFirstApplication/src/java/com/itesm/test/servlets/MostrarPersonaServlet.java</file>
+            <file>file:/C:/Users/Dave/Documents/NetBeansProjects/myFirstApplication/web/persona/editar.jsp</file>
+            <file>file:/C:/Users/Dave/Documents/NetBeansProjects/myFirstApplication/src/java/com/itesm/test/servlets/ActualizarPersonaServlet.java</file>
+            <file>file:/C:/Users/Dave/Documents/NetBeansProjects/myFirstApplication/src/java/com/itesm/test/dao/PersonaDAO.java</file>
+            <file>file:/C:/Users/Dave/Documents/NetBeansProjects/myFirstApplication/src/java/com/itesm/test/vo/PersonaVO.java</file>
+            <file>file:/C:/Users/Dave/Documents/NetBeansProjects/myFirstApplication/src/java/com/itesm/test/manager/PersonaManager.java</file>
+            <file>file:/C:/Users/Dave/Documents/NetBeansProjects/myFirstApplication/src/java/com/itesm/test/servlets/EditarPersonaServlet.java</file>
+            <file>file:/C:/Users/Dave/Documents/NetBeansProjects/myFirstApplication/web/persona/listar.jsp</file>
+        </group>
+    </open-files>
+</project-private>
